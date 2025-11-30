@@ -13,7 +13,6 @@
   </a>
   <p><i>Klik gambar di atas untuk memutar video</i></p>
 </div>
-## Fitur Utama
 
 ### Sisi Pengguna (Frontend)
 * **Game Library:** Menampilkan daftar game dengan *infinite possibilities* dari berbagai genre dan publisher.
@@ -183,4 +182,5 @@ CritHit/
 * cecil@gmail.com:Eden_spear
 * Skadi@gmail.com:Abyssal_hunter
 * Amiyi@gmail.com:Lord_of_Fiend
+
 
