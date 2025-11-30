@@ -2,6 +2,20 @@
 
 **CritHit** adalah sebuah platform web modern untuk mengulas video game yang dilengkapi dengan fitur analisis sentimen berbasis *Machine Learning*. Proyek ini dibangun untuk memenuhi Ujian Tengah Semester mata kuliah Pemrograman Web Lanjut dengan fokus pada arsitektur Native PHP yang bersih, keamanan data, dan integrasi lintas bahasa (PHP-Python).
 
+<div align="center">
+  <h3>Demo Aplikasi CritHit</h3>
+  <p>Tonton video demonstrasi lengkap fitur CRUD, Analisis Sentimen, dan Alur Pengguna.</p>
+  
+  <a href="[LINK_VIDEO_YOUTUBE_ANDA](https://youtu.be/39EcyHSML_8)" target="_blank">
+    <img src="https://img.youtube.com/vi/39EcyHSML_8/maxresdefault.jpg" 
+         alt="Tonton Video Demo" 
+         style="width:100%; max-width:800px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </a>
+  <p><i>Klik gambar di atas untuk memutar video</i></p>
+</div>
+
+https://youtu.be/39EcyHSML_8
+
 ## Fitur Utama
 
 ### Sisi Pengguna (Frontend)
@@ -161,4 +175,14 @@ CritHit/
 ├── register_proses.php     # Logika Registrasi
 ├── logout.php              # Logika Logout
 ├── review_proses.php       # Logika Submit Ulasan (PHP <-> Python)
+
 └── review_hapus.php        # Logika Hapus Ulasan User
+```
+
+### Email:Password user:
+* aku@gmail.com:Aku kaya (Admin)
+* hanif@gmail.com:Tolong aku
+* talulah@gmail.com:Draco_victorian
+* cecil@gmail.com:Eden_spear
+* Skadi@gmail.com:Abyssal_hunter
+* Amiyi@gmail.com:Lord_of_Fiend
