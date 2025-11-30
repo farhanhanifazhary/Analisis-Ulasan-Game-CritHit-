@@ -262,7 +262,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `role`, `created_at`) VALUES
 (1, 'Aku', 'aku@gmail.com', '$2y$10$/TSa.fpV397nCqYMP.s5Lu1/17KNunzmPZYNnqIEAsUL.Q7rhcdVu', 'admin', '2025-11-06 12:59:32'),
-(2, 'Hanif', 'hanifazhary@gmail.com', '$2y$10$hHEzMFue9Ysxds7Qlr8nGO8gLvQnAstm5uri9SWixe9ckJSOtNW6i', 'user', '2025-11-10 22:43:54'),
+(2, 'Hanif', 'hanif@gmail.com', '$2y$10$hHEzMFue9Ysxds7Qlr8nGO8gLvQnAstm5uri9SWixe9ckJSOtNW6i', 'user', '2025-11-10 22:43:54'),
 (4, 'Talulah Artorious', 'talulah@gmail.com', '$2a$12$fc/M8p1yc4QTdbGt5xZ5Ruxk6kqOiIxEtByNpwgmveFSVRY7CgdGS', 'user', '2025-11-14 00:05:15'),
 (5, 'Cecil', 'cecil@gmail.com', '$2y$10$XOyvejNiuiEvaRStx31nZu2aHKmCyoQq40SY9A1BH20NtPPrbPNMW', 'user', '2025-11-14 00:41:53'),
 (6, 'Skadi', 'skadi@gmail.com', '$2y$10$93Y.lqRGRqh9tOxFs8Z6r.BDkccyq9YSYCRRbnBnmSWvD86JyBS/S', 'user', '2025-11-29 00:41:37'),
